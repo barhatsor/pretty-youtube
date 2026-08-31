@@ -3,7 +3,7 @@
 @namespace      github.com/openstyles/stylus
 @version        1.0.0
 @description    Pretty YouTube without excess stuff.
-@author         benhatsor
+@author         barhatsor
 
 @preprocessor stylus
 @var checkbox show_creator_comments   'Only show comments liked by creator' 0
